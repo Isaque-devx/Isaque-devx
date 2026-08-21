@@ -6,7 +6,7 @@ Estudante e desenvolvedor **Full Stack em formação**, aprendendo a construir a
 
 - Estou começando na programação **Full Stack**
 - Estudando e evoluindo a cada dia
-- Hoje já trabalho com o essencial do front-end (HTML, CSS e JavaScript)
+- Hoje já trabalho com o essencial do **front-end** (HTML, CSS e JavaScript)
 - Como me encontrar: veja os links abaixo
 
 ## 🛠️ Tecnologias
